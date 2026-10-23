@@ -1,0 +1,24 @@
+{"G": null, "agent": "llm-agent:gpt-6-astra", "category": "format", "correct": true, "judge": null, "reason": "JSON canonical 相等", "score": 1.0, "task_id": "format-0001"}
+{"G": null, "agent": "llm-agent:gpt-6-astra", "category": "format", "correct": true, "judge": null, "reason": "JSON canonical 相等", "score": 1.0, "task_id": "format-0002"}
+{"G": null, "agent": "llm-agent:gpt-6-astra", "category": "format", "correct": true, "judge": null, "reason": "JSON canonical 相等", "score": 1.0, "task_id": "format-0003"}
+{"G": null, "agent": "llm-agent:gpt-6-astra", "category": "format", "correct": true, "judge": null, "reason": "JSON canonical 相等", "score": 1.0, "task_id": "format-0004"}
+{"G": null, "agent": "llm-agent:gpt-6-astra", "category": "format", "correct": true, "judge": null, "reason": "JSON canonical 相等", "score": 1.0, "task_id": "format-0005"}
+{"G": null, "agent": "llm-agent:gpt-6-astra", "category": "format", "correct": true, "judge": null, "reason": "JSON canonical 相等", "score": 1.0, "task_id": "format-0006"}
+{"G": null, "agent": "llm-agent:gpt-6-astra", "category": "organize", "correct": true, "judge": null, "reason": "按序逐元素相等", "score": 1.0, "task_id": "organize-0001"}
+{"G": null, "agent": "llm-agent:gpt-6-astra", "category": "organize", "correct": true, "judge": null, "reason": "按序逐元素相等", "score": 1.0, "task_id": "organize-0002"}
+{"G": null, "agent": "llm-agent:gpt-6-astra", "category": "organize", "correct": true, "judge": null, "reason": "按序逐元素相等", "score": 1.0, "task_id": "organize-0003"}
+{"G": null, "agent": "llm-agent:gpt-6-astra", "category": "organize", "correct": true, "judge": null, "reason": "按序逐元素相等", "score": 1.0, "task_id": "organize-0004"}
+{"G": null, "agent": "llm-agent:gpt-6-astra", "category": "organize", "correct": true, "judge": null, "reason": "按序逐元素相等", "score": 1.0, "task_id": "organize-0005"}
+{"G": null, "agent": "llm-agent:gpt-6-astra", "category": "organize", "correct": true, "judge": null, "reason": "按序逐元素相等", "score": 1.0, "task_id": "organize-0006"}
+{"G": null, "agent": "llm-agent:gpt-6-astra", "category": "query", "correct": true, "judge": null, "reason": "逐字相等", "score": 1.0, "task_id": "query-0001"}
+{"G": null, "agent": "llm-agent:gpt-6-astra", "category": "query", "correct": true, "judge": null, "reason": "逐字相等", "score": 1.0, "task_id": "query-0002"}
+{"G": null, "agent": "llm-agent:gpt-6-astra", "category": "query", "correct": true, "judge": null, "reason": "逐字相等", "score": 1.0, "task_id": "query-0003"}
+{"G": null, "agent": "llm-agent:gpt-6-astra", "category": "query", "correct": true, "judge": null, "reason": "逐字相等", "score": 1.0, "task_id": "query-0004"}
+{"G": null, "agent": "llm-agent:gpt-6-astra", "category": "query", "correct": true, "judge": null, "reason": "逐字相等", "score": 1.0, "task_id": "query-0005"}
+{"G": null, "agent": "llm-agent:gpt-6-astra", "category": "query", "correct": true, "judge": null, "reason": "逐字相等", "score": 1.0, "task_id": "query-0006"}
+{"G": null, "agent": "llm-agent:gpt-6-astra", "category": "stats", "correct": true, "judge": null, "reason": "十进制精确相等", "score": 1.0, "task_id": "stats-0001"}
+{"G": null, "agent": "llm-agent:gpt-6-astra", "category": "stats", "correct": true, "judge": null, "reason": "十进制精确相等", "score": 1.0, "task_id": "stats-0002"}
+{"G": null, "agent": "llm-agent:gpt-6-astra", "category": "stats", "correct": true, "judge": null, "reason": "十进制精确相等", "score": 1.0, "task_id": "stats-0003"}
+{"G": null, "agent": "llm-agent:gpt-6-astra", "category": "stats", "correct": true, "judge": null, "reason": "十进制精确相等", "score": 1.0, "task_id": "stats-0004"}
+{"G": null, "agent": "llm-agent:gpt-6-astra", "category": "stats", "correct": true, "judge": null, "reason": "十进制精确相等", "score": 1.0, "task_id": "stats-0005"}
+{"G": null, "agent": "llm-agent:gpt-6-astra", "category": "stats", "correct": true, "judge": null, "reason": "十进制精确相等", "score": 1.0, "task_id": "stats-0006"}

@@ -1,0 +1,24 @@
+{"G": null, "category": "format", "correct": true, "reason": "JSON canonical 相等", "score": 1.0, "task_id": "format-0001"}
+{"G": null, "category": "format", "correct": true, "reason": "JSON canonical 相等", "score": 1.0, "task_id": "format-0002"}
+{"G": null, "category": "format", "correct": true, "reason": "JSON canonical 相等", "score": 1.0, "task_id": "format-0003"}
+{"G": null, "category": "format", "correct": true, "reason": "JSON canonical 相等", "score": 1.0, "task_id": "format-0004"}
+{"G": null, "category": "format", "correct": true, "reason": "JSON canonical 相等", "score": 1.0, "task_id": "format-0005"}
+{"G": null, "category": "format", "correct": true, "reason": "JSON canonical 相等", "score": 1.0, "task_id": "format-0006"}
+{"G": null, "category": "organize", "correct": true, "reason": "按序逐元素相等", "score": 1.0, "task_id": "organize-0001"}
+{"G": null, "category": "organize", "correct": true, "reason": "按序逐元素相等", "score": 1.0, "task_id": "organize-0002"}
+{"G": null, "category": "organize", "correct": true, "reason": "按序逐元素相等", "score": 1.0, "task_id": "organize-0003"}
+{"G": null, "category": "organize", "correct": true, "reason": "按序逐元素相等", "score": 1.0, "task_id": "organize-0004"}
+{"G": null, "category": "organize", "correct": true, "reason": "按序逐元素相等", "score": 1.0, "task_id": "organize-0005"}
+{"G": null, "category": "organize", "correct": true, "reason": "按序逐元素相等", "score": 1.0, "task_id": "organize-0006"}
+{"G": null, "category": "query", "correct": true, "reason": "逐字相等", "score": 1.0, "task_id": "query-0001"}
+{"G": null, "category": "query", "correct": true, "reason": "逐字相等", "score": 1.0, "task_id": "query-0002"}
+{"G": null, "category": "query", "correct": true, "reason": "逐字相等", "score": 1.0, "task_id": "query-0003"}
+{"G": null, "category": "query", "correct": true, "reason": "逐字相等", "score": 1.0, "task_id": "query-0004"}
+{"G": null, "category": "query", "correct": true, "reason": "逐字相等", "score": 1.0, "task_id": "query-0005"}
+{"G": null, "category": "query", "correct": true, "reason": "逐字相等", "score": 1.0, "task_id": "query-0006"}
+{"G": null, "category": "stats", "correct": true, "reason": "十进制精确相等", "score": 1.0, "task_id": "stats-0001"}
+{"G": null, "category": "stats", "correct": true, "reason": "十进制精确相等", "score": 1.0, "task_id": "stats-0002"}
+{"G": null, "category": "stats", "correct": true, "reason": "十进制精确相等", "score": 1.0, "task_id": "stats-0003"}
+{"G": null, "category": "stats", "correct": true, "reason": "十进制精确相等", "score": 1.0, "task_id": "stats-0004"}
+{"G": null, "category": "stats", "correct": true, "reason": "十进制精确相等", "score": 1.0, "task_id": "stats-0005"}
+{"G": null, "category": "stats", "correct": true, "reason": "十进制精确相等", "score": 1.0, "task_id": "stats-0006"}

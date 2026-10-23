@@ -1,0 +1,95 @@
+{
+  "agents": [
+    {
+      "A": {
+        "F": null,
+        "G": null,
+        "T": null,
+        "degradation_kinds": {},
+        "n": 24,
+        "n_agent_failed": 0,
+        "n_correct": 24,
+        "n_degraded": 0,
+        "n_delta_ok": null,
+        "n_reply_ok": null,
+        "rate": 1.0,
+        "source": "benchmarks/office/heldout/llm-agent-deepseek-chat/records.jsonl"
+      },
+      "B": {
+        "F": 0.7298534798534799,
+        "G": 0.5108333333333334,
+        "T": 1.0,
+        "degradation_kinds": {},
+        "n": 120,
+        "n_agent_failed": 2,
+        "n_correct": 24,
+        "n_degraded": 0,
+        "n_delta_ok": null,
+        "n_reply_ok": null,
+        "rate": 0.2,
+        "source": "benchmarks/qa/dev/llm-agent-deepseek-chat/records.jsonl"
+      },
+      "C": {
+        "F": null,
+        "G": 0.84375,
+        "T": null,
+        "degradation_kinds": {},
+        "n": 16,
+        "n_agent_failed": 0,
+        "n_correct": 12,
+        "n_degraded": 0,
+        "n_delta_ok": 16,
+        "n_reply_ok": 12,
+        "rate": 0.75,
+        "source": "benchmarks/orchestration/dev/llm-agent-deepseek-chat/records.jsonl"
+      },
+      "agent": "llm-agent-deepseek-chat"
+    },
+    {
+      "A": {
+        "F": null,
+        "G": null,
+        "T": null,
+        "degradation_kinds": {},
+        "n": 24,
+        "n_agent_failed": 0,
+        "n_correct": 24,
+        "n_degraded": 0,
+        "n_delta_ok": null,
+        "n_reply_ok": null,
+        "rate": 1.0,
+        "source": "benchmarks/office/heldout/llm-agent-gpt-6-astra/records.jsonl"
+      },
+      "B": {
+        "F": 0.6296296296296297,
+        "G": 0.7743749999999999,
+        "T": 1.0,
+        "degradation_kinds": {},
+        "n": 120,
+        "n_agent_failed": 9,
+        "n_correct": 73,
+        "n_degraded": 0,
+        "n_delta_ok": null,
+        "n_reply_ok": null,
+        "rate": 0.6083333333333333,
+        "source": "benchmarks/qa/dev/llm-agent-gpt-6-astra/records.jsonl"
+      },
+      "C": {
+        "F": null,
+        "G": 0.78125,
+        "T": null,
+        "degradation_kinds": {},
+        "n": 16,
+        "n_agent_failed": 1,
+        "n_correct": 12,
+        "n_degraded": 0,
+        "n_delta_ok": 15,
+        "n_reply_ok": 12,
+        "rate": 0.75,
+        "source": "benchmarks/orchestration/dev/llm-agent-gpt-6-astra/records.jsonl"
+      },
+      "agent": "llm-agent-gpt-6-astra"
+    }
+  ],
+  "legacy": {}
+}

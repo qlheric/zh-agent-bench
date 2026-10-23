@@ -1,0 +1,21 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "zh-agent-bench"
+version = "0.1.0"
+description = "中文可复现多轮工具调用 Agent 基准"
+requires-python = ">=3.12"
+# 运行时依赖必须为空：构造器只允许用 stdlib
+dependencies = []
+
+[dependency-groups]
+# uv sync 默认安装 dependency-group，pytest 属开发期工具，不进运行时依赖
+dev = ["pytest"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/zh_agent_bench"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

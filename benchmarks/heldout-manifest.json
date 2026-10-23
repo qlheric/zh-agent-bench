@@ -1,0 +1,8 @@
+{
+  "benchmarks/office/heldout/llm-agent-deepseek-chat/records.jsonl": "03455e9b2eb72029b7e85c76cb88c04c92f817c1f613ebc5744896a415343430",
+  "benchmarks/office/heldout/llm-agent-gpt-6-astra/records.jsonl": "55eb88c765c1092a12328e80daf57109370a6ef10554395c3674a1bb97398d56",
+  "benchmarks/tasks/heldout/format.jsonl": "2459ceb850c2fabd76913dcfdb6afd10a8477be750ed3ad80b394cefbc39a78c",
+  "benchmarks/tasks/heldout/organize.jsonl": "6777af1e89f9058f39beeb78e5b5773417c4d8b9995ce6120364a3bed9db8c40",
+  "benchmarks/tasks/heldout/query.jsonl": "93ac03143c9b48dcd0a2e055731cd88898d30b8dd7cbd8a1ea0472e7007e777b",
+  "benchmarks/tasks/heldout/stats.jsonl": "c04ff1e5f9df56c6681926bde83afbee74126fda473018068f023f5eee3ec932"
+}

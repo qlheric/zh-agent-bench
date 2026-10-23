@@ -1,0 +1,32 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.12"]
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 安装 uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: 装依赖
+        # pyproject.toml 里 [dependency-groups].dev 只有 pytest，uv sync 默认装它。
+        # 运行时依赖是空的（构造器只允许 stdlib），这里不会拉任何 LLM SDK。
+        run: uv sync
+
+      - name: 跑测试
+        # 全部测试离线：假 agent + 纯本地 judge，不联网、不调 LLM、不读 blind。
+        # -W error 把 warning 升级为失败，与本地验收口径一致。
+        run: uv run pytest -q -W error
