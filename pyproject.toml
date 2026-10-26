@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "zh-agent-bench"
-version = "0.1.0"
+version = "0.1.1"
 description = "中文可复现多轮工具调用 Agent 基准"
 requires-python = ">=3.12"
 # 运行时依赖必须为空：构造器只允许用 stdlib
