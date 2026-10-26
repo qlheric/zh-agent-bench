@@ -1,0 +1,10 @@
+# 这个仓库的核心是「字节可复现」：数据集、产物、榜单都按字节比对。
+# Windows 的 core.autocrlf=true 会在 checkout 时把 LF 转 CRLF，让 clone 后的
+# 字节一致测试全红（Linux CI 看不出来）。所以这里强制 LF，不依赖用户本机配置。
+* text=auto eol=lf
+
+# 明确二进制，别让 git 当文本处理
+*.png binary
+*.jpg binary
+*.zip binary
+*.gz binary
